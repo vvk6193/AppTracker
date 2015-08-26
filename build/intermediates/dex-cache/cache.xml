@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vivek-pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ff3af5f44362b1fbf0ab8fb2880f922bc6d7f38b.jar" />
+    </item>
+    <item
+        jar="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\classes-df6075dd21d3d3d769a8e50026c1e827af5d368a.jar" />
+    </item>
+    <item
+        jar="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\classes-3986b6f7cb8992e67f2b1efc37926ac6f8459af5.jar" />
+    </item>
+    <item
+        jar="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c6d80270b1f580d695b02dc264b0f489ec78315d.jar" />
+    </item>
+
+</items>
