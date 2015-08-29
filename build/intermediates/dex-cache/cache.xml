@@ -16,11 +16,25 @@
         <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\classes-df6075dd21d3d3d769a8e50026c1e827af5d368a.jar" />
     </item>
     <item
-        jar="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jar="C:\Users\vivek-pc\Documents\GitHub\AppTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\classes-3986b6f7cb8992e67f2b1efc37926ac6f8459af5.jar" />
+        <dex dex="C:\Users\vivek-pc\Documents\GitHub\AppTracker\app\build\intermediates\pre-dexed\debug\classes-1e95f18338fd598dcf9c4d7b3bc5dc3de88c3a51.jar" />
+    </item>
+    <item
+        jar="C:\Users\vivek-pc\Documents\GitHub\AppTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\vivek-pc\Documents\GitHub\AppTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ed94e830ce8b0464585ae28f2892fa40f1128c72.jar" />
+    </item>
+    <item
+        jar="C:\Users\vivek-pc\Documents\GitHub\AppTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\vivek-pc\Documents\GitHub\AppTracker\app\build\intermediates\pre-dexed\debug\classes-2d6a5d88a3ca7e874a4c661491d49eec363edded.jar" />
     </item>
     <item
         jar="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
@@ -28,6 +42,13 @@
         revision="22.0.1"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
         <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c6d80270b1f580d695b02dc264b0f489ec78315d.jar" />
+    </item>
+    <item
+        jar="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\software\adt-bundle-windows-x86_64\adt-bundle-windows-x86_64\AppTracker\app\build\intermediates\pre-dexed\debug\classes-3986b6f7cb8992e67f2b1efc37926ac6f8459af5.jar" />
     </item>
 
 </items>
